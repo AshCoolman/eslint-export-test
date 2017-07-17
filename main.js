@@ -1,0 +1,1 @@
+export DaysAsTimePeriod from "./module"

@@ -1,0 +1,15 @@
+{
+  "name": "eslint-export-test",
+  "description":"Possible bug see https://stackoverflow.com/q/44691706/225813",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node_modules/.bin/eslint main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "4.2.0"
+  }
+}
